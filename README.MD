@@ -1,3 +1,3 @@
 # Hello from Aleksei Alekseev
 
-№ Hello from another user
+# Hello from another user
